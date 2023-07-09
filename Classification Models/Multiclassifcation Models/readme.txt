@@ -6,7 +6,7 @@ Bootstrapping with Class Weights
 Undersampling with GridSearchCV and RFECV
 Oversampling (SMOTE)
 
-**Each notebook contains models for each of the following algorithms:**
+Each notebook contains models for each of the following algorithms:
 Random Forest Classifier
 KNN
 XGBoost
